@@ -1,5 +1,13 @@
 # İşletim Sistemleri Ödevi - 20212013051 - ali yasin öcal
 
-Bu projede İşletim Sistemleri dersi ödevi için CPU Scheduling algoritmaları basit şekilde simüle edilmiştir
+Hocam merhabalar 
+ödevde istediğiniz işlemci zamanlama pratiğini yaptım.
+Verilen case dosyalarını kullanarak algoritmaları çalıştırdım.
 
-Proje C# dili ile geliştirilmiştir.
+FCFS SJF (kesmesiz) ve Round Robin kullandım.
+Çıktılarda zaman tablosu bekleme süresi tamamlanma süresi
+iş tamamlama sayısı ve cpu verimliliği bulunmaktadır.
+
+Sonuçlar sonuclar klasörü içine txt dosyası olarak yazılmaktadır.
+Program parametre olarak dosyalanmaktaadır.
+
