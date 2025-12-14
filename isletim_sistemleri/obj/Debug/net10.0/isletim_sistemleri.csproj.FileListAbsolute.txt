@@ -1,0 +1,14 @@
+/Users/aliyasinocal/Desktop/isletim_sistemleri/bin/Debug/net10.0/isletim_sistemleri
+/Users/aliyasinocal/Desktop/isletim_sistemleri/bin/Debug/net10.0/isletim_sistemleri.deps.json
+/Users/aliyasinocal/Desktop/isletim_sistemleri/bin/Debug/net10.0/isletim_sistemleri.runtimeconfig.json
+/Users/aliyasinocal/Desktop/isletim_sistemleri/bin/Debug/net10.0/isletim_sistemleri.dll
+/Users/aliyasinocal/Desktop/isletim_sistemleri/bin/Debug/net10.0/isletim_sistemleri.pdb
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.AssemblyInfoInputs.cache
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.AssemblyInfo.cs
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.csproj.CoreCompileInputs.cache
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.dll
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/refint/isletim_sistemleri.dll
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.pdb
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/isletim_sistemleri.genruntimeconfig.cache
+/Users/aliyasinocal/Desktop/isletim_sistemleri/obj/Debug/net10.0/ref/isletim_sistemleri.dll

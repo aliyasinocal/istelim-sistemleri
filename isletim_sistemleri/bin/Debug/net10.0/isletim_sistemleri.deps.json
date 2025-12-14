@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "isletim_sistemleri/1.0.0": {
+        "runtime": {
+          "isletim_sistemleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "isletim_sistemleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

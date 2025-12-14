@@ -1,0 +1,29 @@
+=== FCFS GANTT ===
+[0,000] P1 -> [5,000]
+[5,000] CS -> [5,001]
+[5,001] P2 -> [8,001]
+[8,001] CS -> [8,002]
+[8,002] P3 -> [16,002]
+[16,002] CS -> [16,003]
+[16,003] P4 -> [22,003]
+Toplam sure: 22,003
+Context switch sayisi: 3
+
+=== FCFS METRIKLER ===
+P1 | Waiting=0,000 | Turnaround=5,000
+P2 | Waiting=4,001 | Turnaround=7,001
+P3 | Waiting=6,002 | Turnaround=14,002
+P4 | Waiting=13,003 | Turnaround=19,003
+Avg Waiting: 5,752 | Max Waiting: 13,003
+Avg Turnaround: 11,252 | Max Turnaround: 19,003
+
+=== THROUGHPUT ===
+T=50: tamamlanan process sayisi = 4
+T=100: tamamlanan process sayisi = 4
+T=150: tamamlanan process sayisi = 4
+T=200: tamamlanan process sayisi = 4
+
+=== CPU VERIMLILIGI ===
+Toplam Burst (is): 22,000
+Toplam Sure (CS+IDLE dahil): 22,003
+CPU Efficiency: 99,99%
